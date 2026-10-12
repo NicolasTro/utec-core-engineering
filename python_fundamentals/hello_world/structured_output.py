@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 
-lenguaje="Python"
-version=3
-valor_pi=3.1416
-valido=5>2
+lenguaje = "Python"
+version = 3
+valor_pi = 3.1416
+valido = 5 > 2
 
 print(f"Language: {lenguaje}")
 print(f"Version: {version}")
