@@ -8,4 +8,4 @@ valido=5>2
 print(f"Language: {lenguaje}")
 print(f"Version: {version}")
 print(f"Pi approx: {valor_pi}")
-print(f"Computaion valid: {valido}")
+print(f"Computation valid: {valido}")
