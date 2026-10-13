@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 alphabet = "abcdefghijklmnopqrstuvwxyz"
 result = ""
 i = 0
