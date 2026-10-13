@@ -6,4 +6,4 @@ while i < len(alphabet):
     if alphabet[i] != 'e' and alphabet[i] != 'q':
         result += alphabet[i]
     i += 1
-print(result)
+print("{}".format(result))
