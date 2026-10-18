@@ -10,3 +10,5 @@ Ejercicios sobre definición de funciones, modularización e importación en Pyt
 - `pow.py`: Función `pow(a, b)` que calcula la potencia iterativamente mediante un bucle sin usar `**`.
 - `simple_add.py`: Función `add(a, b)` con protección de ejecución `if __name__ == "__main__":`.
 - `test_import.py`: Script para verificar la importación limpia de `simple_add` sin ejecución de código a nivel superior.
+- `add_0.py`: Función `add(a, b)` que retorna la suma de dos números.
+- `add.py`: Programa que importa `add` desde `add_0.py` e imprime `1 + 2 = 3`.
