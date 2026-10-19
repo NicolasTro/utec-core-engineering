@@ -12,3 +12,5 @@ Ejercicios sobre definición de funciones, modularización e importación en Pyt
 - `test_import.py`: Script para verificar la importación limpia de `simple_add` sin ejecución de código a nivel superior.
 - `add_0.py`: Función `add(a, b)` que retorna la suma de dos números.
 - `add.py`: Programa que importa `add` desde `add_0.py` e imprime `1 + 2 = 3`.
+- `calculator_1.py`: Módulo con funciones aritméticas (`add`, `sub`, `mul`, `div`).
+- `calculation.py`: Programa que realiza operaciones básicas usando `calculator_1.py`.
