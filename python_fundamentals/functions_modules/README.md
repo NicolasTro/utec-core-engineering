@@ -14,3 +14,5 @@ Ejercicios sobre definición de funciones, modularización e importación en Pyt
 - `add.py`: Programa que importa `add` desde `add_0.py` e imprime `1 + 2 = 3`.
 - `calculator_1.py`: Módulo con funciones aritméticas (`add`, `sub`, `mul`, `div`).
 - `calculation.py`: Programa que realiza operaciones básicas usando `calculator_1.py`.
+- `variable_load_5.py`: Archivo que define la variable `a = 98`.
+- `variable_load.py`: Programa que importa la variable `a` desde `variable_load_5.py` e imprime su valor.
